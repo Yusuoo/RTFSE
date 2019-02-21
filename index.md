@@ -17,7 +17,7 @@
   * DB
     * IBM Db2
   * バッチ系、監視系  
-* **APP**
+* **Application(App)**
   * プログラミング言語
     * bash
     * Perl
