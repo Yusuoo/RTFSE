@@ -36,7 +36,7 @@
 
 ## Table of Contents
 
-* **ReadMe**
+* **このサイトについて**
 * **Operating System(OS)**
   * OSとは
   * Linux
@@ -62,6 +62,8 @@
     * GCP
 * **NetWork**
 * **英語**
+
+
 ## self‐introduction
 
 
