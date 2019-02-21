@@ -29,41 +29,6 @@
 * **NetWork**
 * **英語**
 
-### ReadMe
-
-鹿児島生まれ高知育ち
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-## Table of Contents
-
-* **このサイトについて**
-* **Operating System(OS)**
-  * OSとは
-  * Linux
-  * Mac
-  * Windows
-* **Middleware(MW)**
-  * MWとは
-  * Web
-    * apache系
-  * AP
-    * IBM WebSphere Application Server (WAS)
-  * DB
-    * IBM Db2
-  * バッチ系、監視系  
-* **APP**
-  * プログラミング言語
-    * bash
-    * Perl
-    * 競技プログラミング練習
-* **Cloud**
-    * Cloudとは
-    * AWS
-    * GCP
-* **NetWork**
-* **英語**
-
-
 ## self‐introduction
 
 
