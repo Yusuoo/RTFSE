@@ -23,9 +23,13 @@
     * Perl
     * 競技プログラミング練習
 * **Cloud**
-    * Cloudとは
-    * AWS
-    * GCP
+  * Cloudとは
+  * AWS
+  * GCP
+* **CI/CD周り,ツール系,ブログ系**
+  * Jenkins
+  * git
+  * redmine
 * **NetWork**
 * **英語**
 
