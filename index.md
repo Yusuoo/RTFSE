@@ -39,7 +39,7 @@
   * 結婚
   * 出産
   * 育児
-  
+  * 読書
 
 ## self‐introduction
 
