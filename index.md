@@ -6,6 +6,7 @@
 * **Operating System(OS)**
   * OSとは
   * Linux
+    * こんなときどうする？
   * Mac
   * Windows
 * **Middleware(MW)**
@@ -28,10 +29,17 @@
   * GCP
 * **CI/CD周り,ツール系,ブログ系**
   * Jenkins
-  * git
-  * redmine
+  * Git
+  * Redmine
 * **NetWork**
-* **英語**
+* **資格**
+* **LIFE**
+  * 就職・転職
+  * 引越
+  * 結婚
+  * 出産
+  * 育児
+  
 
 ## self‐introduction
 
