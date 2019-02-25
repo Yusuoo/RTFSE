@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [**このサイトについて**](https://yusuoo.github.io/RTFSE/このサイトについて/)
-* [**Operating System(OS)**](https://yusuoo.github.io/RTFSE/Operating System(OS)/)
+* [**Operating System(OS)**](https://yusuoo.github.io/RTFSE/OperatingSystem(OS)/)
   * OSとは
   * Linux
     * こんなときどうする？
