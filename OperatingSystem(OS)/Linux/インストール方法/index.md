@@ -14,6 +14,15 @@
   * 手順2までを作業する別PC
   
 * 手順
+
+■BIOSセットアップ
+  * 1.F2キーを押下しながら、PCの電源を投入する(BIOSセットアップ起動)
+  * 2.左メニューから"Boot Seqence"を押下
+  * 3."CD/DVD/CD-RW Drive"を選択し、▲ボタンを押下して一番上にする(DVDブートの有効化)
+  * 4.画面右下の"Apply"をクリック
+  * 5.画面右下の"Exit"をクリック
+  
+■ CentOS7の初期インストール
   * 1.CentOS7.3のISOをイメージを[サイト*1](http://ftp.iij.ad.jp/pub/linux/centos/7/isos/x86_64/CentOS-7-x86_64-Minimal-1810.iso)よりダウンロードする
   * 2.ダウンロードしたイメージをDVDに焼く
   * 3.DVDをPCに挿入し、電源をOn
