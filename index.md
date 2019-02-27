@@ -19,10 +19,10 @@
     * IBM Db2
   * バッチ系、監視系  
 * [**Application(App)**](https://yusuoo.github.io/RTFSE/Application(App)/)
-  * プログラミング言語
+  * プログラミング言語 / programming language
     * bash
     * Perl
-    * 競技プログラミング練習
+    * 競技プログラミング練習 / practice for ompetitive programming
 * [**Cloud**](https://yusuoo.github.io/RTFSE/Cloud/)
   * Cloudとは
   * AWS
