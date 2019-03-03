@@ -31,7 +31,7 @@
   * Jenkins
   * Git
   * Redmine
-* [**NetWork**](https://yusuoo.github.io/RTFSE/NetWork/)
+* [**NetWork(NW)**](https://yusuoo.github.io/RTFSE/NetWork/)
 * [**資格 / Qualification**](https://yusuoo.github.io/RTFSE/資格（Qualification）/)
 * [**LIFE**](https://yusuoo.github.io/RTFSE/LIFE/)
   * 就職・転職 / job hunting・get a new job
