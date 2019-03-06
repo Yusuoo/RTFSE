@@ -5,7 +5,10 @@
 
 # 資格 / Qualification
 
-## 基本情報技術者試験
-## 応用情報技術者試験
-## NWスペシャリスト
-## SAA
+## 基本情報技術者試験 / Fundamental Information Technology Engineer Examination(FE)
+
+## 応用情報技術者試験 / Applied Information Technology Engineer Examination(AP)
+
+## ネットワークスペシャリスト試験 / Network Specialist Examination(NW)
+
+## AWSソリューションアーキテクトアソシエイト / AWS Certified Solutions Architect Associate(SAA)
