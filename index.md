@@ -33,6 +33,10 @@
   * Redmine
 * [**NetWork(NW)**](https://yusuoo.github.io/RTFSE/NetWork/)
 * [**資格 / Qualification**](https://yusuoo.github.io/RTFSE/資格（Qualification）/)
+  * 基本情報技術者試験 / Fundamental Information Technology Engineer Examination(FE)
+  * 応用情報技術者試験 / Applied Information Technology Engineer Examination(AP)
+  * ネットワークスペシャリスト試験 / Network Specialist Examination(NW)
+  * AWSソリューションアーキテクトアソシエイト / AWS Certified Solutions Architect Associate(SAA)
 * [**LIFE**](https://yusuoo.github.io/RTFSE/LIFE/)
   * 就職・転職 / job hunting・get a new job
   * 引越 / move houses
