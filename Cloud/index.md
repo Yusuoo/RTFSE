@@ -12,4 +12,25 @@
 
 ## Amazon Web Services(AWS)
 
+### 各サービス
+  * コンピューティング
+    * EC2
+  * ストレージ
+    * S3
+  * ネットワーキング ＆ コンテンツ配信 
+    * VPC
+  * 管理とガバナンス
+    * CloudWatch
+  * セキュリティ、アイデンティティ、コンプライアンス    
+    * IAM
+  * アプリケーション統合
+    * SNS
+
+  
+### AWS CLI
+
+### 試験
+  AWS認定試験がある。
+  リンクはこちら。
+ 
 ## Google Cloud Platform（GCP）
