@@ -20,7 +20,7 @@
   * バッチ系、監視系  
 * [**Application(App)**](https://yusuoo.github.io/RTFSE/Application(App)/)
   * プログラミング言語 / programming language
-    * bash
+    * Bourne Again Shell(Bash)
     * Perl
     * 競技プログラミング練習 / practice for ompetitive programming
 * [**Cloud**](https://yusuoo.github.io/RTFSE/Cloud/)
